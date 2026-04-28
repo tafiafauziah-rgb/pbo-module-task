@@ -1,0 +1,14 @@
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\bin\Debug\net10.0\tugaspbosistemkendaraan.deps.json
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\bin\Debug\net10.0\tugaspbosistemkendaraan.dll
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\bin\Debug\net10.0\tugaspbosistemkendaraan.pdb
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\obj\Debug\net10.0\tugaspbosistemkendaraan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\obj\Debug\net10.0\tugaspbosistemkendaraan.AssemblyInfoInputs.cache
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\obj\Debug\net10.0\tugaspbosistemkendaraan.AssemblyInfo.cs
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\obj\Debug\net10.0\tugaspbosistemkendaraan.csproj.CoreCompileInputs.cache
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\obj\Debug\net10.0\tugaspbosistemkendaraan.dll
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\obj\Debug\net10.0\refint\tugaspbosistemkendaraan.dll
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\obj\Debug\net10.0\tugaspbosistemkendaraan.pdb
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\obj\Debug\net10.0\ref\tugaspbosistemkendaraan.dll
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\bin\Debug\net10.0\tugaspbosistemkendaraan.exe
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\bin\Debug\net10.0\tugaspbosistemkendaraan.runtimeconfig.json
+C:\Users\Tafia Hikmah Fauziah\source\repos\tugaspbosistemkendaraan\tugaspbosistemkendaraan\obj\Debug\net10.0\tugaspbosistemkendaraan.genruntimeconfig.cache
